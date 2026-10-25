@@ -12,7 +12,7 @@
   <a href="https://www.webboomers.in/">🌐 Website</a> •
   <a href="https://github.com/WebBoomers">💻 GitHub</a> •
   <a href="https://gymos.webboomers.in/">🏋️ GymOS</a> •
-  <a href="https://billing-hosting.webboomers.in/">💳 BillPro</a>
+  <a href="https://hosting.webboomers.in/">💳 Hosting</a>
 </p>
 
 ---
